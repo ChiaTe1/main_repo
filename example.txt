@@ -1,0 +1,10 @@
+This is firstRepo
+file
+git hub
+hello
+user1
+in
+the 
+repository
+lab
+unbuntu
